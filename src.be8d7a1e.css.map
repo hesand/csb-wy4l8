@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,YACE,SACF,CAEA,QACE,UACF","file":"src.be8d7a1e.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n#happy-cake {\n  color: red;\n}\n\n.module {\n  color: blue;\n}\n"]}
